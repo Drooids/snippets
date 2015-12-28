@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from grequests import get, map
+import wget
 
 for response in map(
     (
@@ -17,4 +18,6 @@ for response in map(
     )
 ):
     for item in response.json()['data']['items']:
-        print 'https://www.graphicsprings.com/filestorage/stencils/{filename}'.format(filename=item['filename'])
+        down_url = 'https://www.graphicsprings.com/filestorage/stencils/{filename}'.format(filename=item['filename'])
+        wget.download(down_url);
+        print down_url

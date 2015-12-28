@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 150 150" enable-background="new 0 0 150 150" xml:space="preserve">
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="51.1558" y1="21.8004" x2="70.836" y2="67.0658">
+		<stop  offset="0" style="stop-color:#FFDA48"/>
+		<stop  offset="1" style="stop-color:#BF7F31"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M35.5,65.6L60,84.7l31.8-38.3l16.8,12.3l7.5-8.3c-8.6-14.7-24.5-24.6-42.7-24.6
+		C46.1,25.8,24,47.9,24,75.2c0,2,0.1,4,0.4,5.9L35.5,65.6z"/>
+	<path fill="#75B043" d="M111.8,78.5L133,54.7l-8.5-6.6l-14.7,16.4L92.9,52.2L61.2,90.5L36.7,71.3L3.7,117.3l0.5-0.5l-0.2,0.1
+		l32-36.3l-8.5,15.5c6.4,19.9,25,34.2,47,34.2c27.3,0,49.4-22.1,49.4-49.4c0-4-0.5-7.9-1.4-11.6L111.8,78.5z M54.2,112.6l-16.9-35
+		l19.5,16.7l-4.9,5.5L54.2,112.6z M98.7,99.4l-6.3,10.3l-7.8,2.6L97,88.5L94.4,79l3.2-8.3l-3.7-13.2L110.2,73l-1.7,5.2l9.8,11.5
+		L98.7,99.4z"/>
+	
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="121.1519" y1="69.6871" x2="115.0625" y2="42.9612" gradientTransform="matrix(0.9991 4.250000e-02 -4.250000e-02 0.9991 18.3729 11.2507)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#6CAB36"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_2_)" points="133,54.7 139.7,59.9 138.5,40.4 118.2,43.1 124.5,48 	"/>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="73.3316" y1="166.0784" x2="58.4937" y2="120.8958">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#6CAB36"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_3_)" points="37.2,77.6 54.2,112.6 51.9,99.7 56.8,94.2 	"/>
+	<polygon fill="#8BBB5F" points="37.2,77.6 54.2,112.6 51.9,99.7 56.8,94.2 	"/>
+	<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="117.9855" y1="151.414" x2="103.1475" y2="106.2315">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#6CAB36"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_4_)" points="110.2,73 93.8,57.5 97.5,70.7 94.4,79 97,88.5 84.6,112.3 92.4,109.7 98.7,99.4 118.2,89.6 
+		108.5,78.1 	"/>
+	<polygon fill="#8BBB5F" points="110.2,73 93.8,57.5 97.5,70.7 94.4,79 97,88.5 84.6,112.3 92.4,109.7 98.7,99.4 118.2,89.6 
+		108.5,78.1 	"/>
+</g>
+</svg>

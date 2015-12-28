@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g>
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="47.244" y="61.225" width="5.745" height="8.873">
+			<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+			<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="47.244" y="61.225" width="5.745" height="8.873" id="SVGID_1_">
+		<g filter="url(#Adobe_OpacityMaskFilter)">
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="47.244" y="61.225" width="5.745" height="8.873">
+					<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+					<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="47.244" y="61.225" width="5.745" height="8.873" id="SVGID_1_">
+				<g filter="url(#Adobe_OpacityMaskFilter_1_)">
+				</g>
+			</mask>
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="50.1167" y1="53.5371" x2="50.1167" y2="69.43">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="0.0524" style="stop-color:#E8E8E8"/>
+				<stop  offset="0.2031" style="stop-color:#ABABAB"/>
+				<stop  offset="0.3529" style="stop-color:#777777"/>
+				<stop  offset="0.4983" style="stop-color:#4C4C4C"/>
+				<stop  offset="0.6383" style="stop-color:#2B2B2B"/>
+				<stop  offset="0.7716" style="stop-color:#131313"/>
+				<stop  offset="0.8952" style="stop-color:#050505"/>
+				<stop  offset="1" style="stop-color:#000000"/>
+			</linearGradient>
+			<rect x="47.244" y="61.225" mask="url(#SVGID_1_)" fill="url(#SVGID_2_)" width="5.745" height="8.873"/>
+		</g>
+	</mask>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="50.1167" y1="53.5371" x2="50.1167" y2="69.43">
+		<stop  offset="0" style="stop-color:#231F20"/>
+		<stop  offset="1" style="stop-color:#231F20"/>
+	</linearGradient>
+	<rect x="47.244" y="61.225" fill="url(#SVGID_3_)" width="5.745" height="8.873"/>
+	<g>
+		<polygon fill="#404041" points="73.105,53.272 73.105,49.976 50.381,31.106 36.913,42.29 36.913,38.454 34.539,38.454 
+			34.539,44.259 27.652,49.976 27.652,53.272 50.381,34.403 		"/>
+		<rect x="46.382" y="40.084" fill="#1B75BB" width="3.647" height="3.647"/>
+		<rect x="50.493" y="40.084" fill="#404041" width="3.647" height="3.647"/>
+		<rect x="46.382" y="44.293" fill="#404041" width="3.647" height="3.648"/>
+		<rect x="50.493" y="44.293" fill="#1B75BB" width="3.647" height="3.648"/>
+		<path fill="#1B75BB" d="M63.784,68.82V54.94h2.399v-5.333H34.459v5.333h2.401v13.88H6.563v1.165H36.86h0.301h4.08V57.211h1.4
+			c0,0,2.797-2.069,7.602-2.069c4.91,0,7.759,2.069,7.759,2.069h1.399v12.774h4.195h0.188h30.413V68.82H63.784z"/>
+	</g>
+	<g>
+		<g>
+			<polygon fill="#404041" points="51.163,71.555 47.244,70.105 47.244,61.225 51.163,62.673 			"/>
+		</g>
+		<path fill="#FFFFFF" d="M50.899,66.971c0,0.278-0.149,0.502-0.334,0.502c-0.184,0-0.334-0.224-0.334-0.502
+			c0-0.274,0.15-0.497,0.334-0.497C50.75,66.474,50.899,66.696,50.899,66.971z"/>
+	</g>
+</g>
+</svg>

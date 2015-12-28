@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<radialGradient id="SVGID_1_" cx="19.999" cy="64.1484" r="38.944" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#00ABEB"/>
+				<stop  offset="0.029" style="stop-color:#22AAE7"/>
+				<stop  offset="0.0603" style="stop-color:#3FA8E3"/>
+				<stop  offset="0.0914" style="stop-color:#53A8E0"/>
+				<stop  offset="0.122" style="stop-color:#60A7DF"/>
+				<stop  offset="0.1515" style="stop-color:#64A7DE"/>
+				<stop  offset="0.3273" style="stop-color:#4674B7"/>
+				<stop  offset="0.5212" style="stop-color:#333B8B"/>
+				<stop  offset="0.7576" style="stop-color:#211C51"/>
+				<stop  offset="1" style="stop-color:#171043"/>
+			</radialGradient>
+			<path fill="url(#SVGID_1_)" d="M10.478,43.446c5.166-2.708,10.932-3.965,16.625-5.014c-3.871,1.416-7.907,2.619-11.31,5.025
+				c-1.801,1.263-3.401,3.191-3.393,5.503c-0.041,2.884,1.773,5.384,3.789,7.273c3.604,3.321,8.104,5.476,12.643,7.206
+				c8.985,3.318,18.562,4.779,28.101,5.136c11.709,0.433,23.439-0.44,35.018-2.157c-7.075,2.021-14.411,2.964-21.723,3.635
+				c-8.309,0.689-16.674,0.97-24.991,0.354c-9.411-0.859-18.831-2.714-27.539-6.476c-3.756-1.685-7.477-3.721-10.337-6.738
+				c-1.858-1.966-3.284-4.698-2.632-7.467C5.398,46.79,7.962,44.812,10.478,43.446z"/>
+		</g>
+	</g>
+	<radialGradient id="SVGID_2_" cx="40.1265" cy="29.0347" r="53.9025" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#919395"/>
+		<stop  offset="0.6727" style="stop-color:#424243"/>
+		<stop  offset="1" style="stop-color:#272525"/>
+	</radialGradient>
+	<path fill="url(#SVGID_2_)" d="M59.168,47.759c-2.791-2.537-5.57-5.079-8.359-7.616c-0.006-1.947,0.006-3.895-0.012-5.837
+		c-1.36-0.041-2.759-0.239-4.098,0.082c-0.062,0.636-0.1,1.276-0.106,1.92c-2.265-2.064-4.503-4.159-6.804-6.174
+		c-0.671-0.679-1.768-0.679-2.434,0.003c-6.57,5.633-12.841,11.6-19.213,17.453c-0.63,0.57-1.467,1.442-0.967,2.35
+		c1.236,0.437,2.583,0.201,3.862,0.402c0.002,2.5,0.008,4.998,0,7.501c2.227,1.31,4.574,2.412,6.983,3.352
+		c8.89,3.412,18.369,5.106,27.845,5.707c0.329-5.555,0.062-11.128,0.15-16.69c1.322-0.043,2.713,0.196,3.984-0.282
+		C60.385,49.093,59.771,48.281,59.168,47.759z M38.339,58.279h-3.694v-3.694h3.694V58.279z M38.339,54.193h-3.694V50.5h3.694V54.193
+		z M42.5,58.279h-3.694v-3.694H42.5V58.279z M42.5,54.193h-3.694V50.5H42.5V54.193z"/>
+</g>
+</svg>

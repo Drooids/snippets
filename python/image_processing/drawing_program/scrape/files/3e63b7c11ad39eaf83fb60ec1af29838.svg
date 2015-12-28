@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g>
+	<radialGradient id="SVGID_1_" cx="50.0708" cy="45.7612" r="47.4223" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</radialGradient>
+	<path fill="url(#SVGID_1_)" d="M48.027,45.691L35.653,16.713c-15.507,7.291-22.765,25.363-16.605,41.353L48.027,45.691z"/>
+	<radialGradient id="SVGID_2_" cx="50.0713" cy="45.7632" r="47.4179" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</radialGradient>
+	<path fill="url(#SVGID_2_)" d="M24.285,57.572c6.995,16.154,25.47,23.826,41.778,17.543L53.285,45.193L24.285,57.572z"/>
+	<radialGradient id="SVGID_3_" cx="59.2139" cy="12.5615" r="43.4418" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.0121" style="stop-color:#26A9E0"/>
+		<stop  offset="0.0861" style="stop-color:#239CD7"/>
+		<stop  offset="0.2235" style="stop-color:#1C79BE"/>
+		<stop  offset="0.2364" style="stop-color:#1B75BB"/>
+		<stop  offset="1" style="stop-color:#120742"/>
+	</radialGradient>
+	<path fill="url(#SVGID_3_)" d="M79.204,32.381c-7.46-15.868-26.206-23.098-42.46-16.158l12.385,29.001L79.204,32.381z"/>
+	<radialGradient id="SVGID_4_" cx="50.0742" cy="45.7612" r="47.4175" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</radialGradient>
+	<path fill="url(#SVGID_4_)" d="M54.386,44.721l12.786,29.947c16.569-7.072,24.294-26.207,17.31-42.797L54.386,44.721z"/>
+</g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g>
+	<ellipse fill="#CBCCCE" cx="51.33" cy="84.133" rx="30.125" ry="3.534"/>
+	<g>
+		<g>
+			<path fill="#272525" d="M12.895,56.345c0-21.528,17.111-38.973,38.223-38.973c21.105,0,38.215,17.445,38.215,38.973
+				c0,9.181-3.108,17.604-8.299,24.254C87.485,73.67,91.43,64.491,91.43,54.412c0-21.578-18.047-39.079-40.312-39.079
+				c-22.264,0-40.306,17.5-40.306,39.079c0,10.079,3.93,19.258,10.394,26.187C16.014,73.949,12.895,65.525,12.895,56.345z"/>
+		</g>
+	</g>
+	<g>
+		<radialGradient id="SVGID_1_" cx="53.2871" cy="58.9297" r="23.4399" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#4C9684"/>
+			<stop  offset="1" style="stop-color:#1C493F"/>
+		</radialGradient>
+		<path fill="url(#SVGID_1_)" d="M31.85,33.646h14.349v26.102L56.685,47.58h17.28l-13.14,12.834l13.899,23.8H58.907l-7.42-14.685
+			l-5.289,5.163v9.521H31.85V33.646z"/>
+	</g>
+</g>
+</svg>

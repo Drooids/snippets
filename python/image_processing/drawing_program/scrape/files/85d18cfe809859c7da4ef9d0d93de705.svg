@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g>
+	<g>
+		<radialGradient id="SVGID_1_" cx="31.5098" cy="54.6875" r="87.684" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#919395"/>
+			<stop  offset="0.6727" style="stop-color:#424243"/>
+			<stop  offset="1" style="stop-color:#272525"/>
+		</radialGradient>
+		<path fill="url(#SVGID_1_)" d="M5.864,22.448c1.331-2.195,3.505-4.425,6.347-3.809c4.847,0.835,7.601,5.629,8.815,9.976
+			c2.407,7.568,4.234,15.328,7.044,22.776c1.14,3.145,3.59,6.075,7.137,6.373c11.658,1.345,23.439,0.615,35.152,1.196
+			c3.095,0.269,7.219,1.431,7.696,5.062c-0.198,3.378-3.884,4.752-6.726,5.282c-10.199,1.274-20.497,0.093-30.717-0.34
+			c-3.759-0.39-7.678,0.028-11.264-1.353c14.949-1.805,44.845,2.259,45.149-3.157c0.106-1.401-2.651-1.274-4.117-1.274
+			c-12.008-0.291-24.047,0.85-36.03-0.1c-4.846-0.396-8.921-3.873-10.812-8.248c-3.844-8.63-5.098-18.118-7.622-27.166
+			c-0.743-2.535-2.103-5.261-4.772-6.16C9.358,21.697,7.605,22.016,5.864,22.448z"/>
+		<radialGradient id="SVGID_2_" cx="47.3325" cy="44.1382" r="62.8429" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FFF24F"/>
+			<stop  offset="0.0351" style="stop-color:#FBE748"/>
+			<stop  offset="0.1137" style="stop-color:#F4D43B"/>
+			<stop  offset="0.1946" style="stop-color:#F0C933"/>
+			<stop  offset="0.2809" style="stop-color:#EFC531"/>
+			<stop  offset="0.6685" style="stop-color:#DB8E46"/>
+			<stop  offset="0.8876" style="stop-color:#D16841"/>
+			<stop  offset="1" style="stop-color:#C9403C"/>
+		</radialGradient>
+		<path fill="url(#SVGID_2_)" d="M33.646,23.191c0-3.59,34.813-2.556,48.233-2.605c2.078-0.05,4.163,0.142,6.241,0.417
+			c0.294,3.441-1.31,6.563-2.364,9.721c-2.113,5.402-4.143,11.002-7.816,15.555c-2.015,2.698-5.725,2.336-8.713,2.662
+			c-11.289,0.248-22.563-0.828-33.85-0.694c-2.715-0.028-5.501,0.312-8.121-0.552c14.964-1.657,30.154,0.212,45.068-2.216
+			c4.549-0.835,5.406-6.351,7.285-9.785c-13.695-0.078-45.322,3.342-45.322-0.8c0-2.903,9.144-2.032,13.813-2.152
+			c9.523,0.156,19.048,0.701,28.572,0.375c1.479-0.34,3.844,0.389,4.383-1.572c0.941-2.096,1.532-4.333,2.227-6.535
+			C71.914,25.259,33.646,27.375,33.646,23.191z"/>
+	</g>
+	<radialGradient id="SVGID_3_" cx="47.3315" cy="44.1372" r="62.8489" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFF24F"/>
+		<stop  offset="0.0351" style="stop-color:#FBE748"/>
+		<stop  offset="0.1137" style="stop-color:#F4D43B"/>
+		<stop  offset="0.1946" style="stop-color:#F0C933"/>
+		<stop  offset="0.2809" style="stop-color:#EFC531"/>
+		<stop  offset="0.6685" style="stop-color:#DB8E46"/>
+		<stop  offset="0.8876" style="stop-color:#D16841"/>
+		<stop  offset="1" style="stop-color:#C9403C"/>
+	</radialGradient>
+	<path fill="url(#SVGID_3_)" d="M36.97,72.002c4.835-2.061,10.443,2.874,9.197,7.943c-0.842,5.346-8.415,7.477-11.88,3.299
+		C30.825,79.86,32.503,73.566,36.97,72.002z"/>
+	<radialGradient id="SVGID_4_" cx="47.333" cy="44.1284" r="62.854" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFF24F"/>
+		<stop  offset="0.0351" style="stop-color:#FBE748"/>
+		<stop  offset="0.1137" style="stop-color:#F4D43B"/>
+		<stop  offset="0.1946" style="stop-color:#F0C933"/>
+		<stop  offset="0.2809" style="stop-color:#EFC531"/>
+		<stop  offset="0.6685" style="stop-color:#DB8E46"/>
+		<stop  offset="0.8876" style="stop-color:#D16841"/>
+		<stop  offset="1" style="stop-color:#C9403C"/>
+	</radialGradient>
+	<path fill="url(#SVGID_4_)" d="M59.105,72.072c4.812-2.223,10.547,2.577,9.428,7.682c-0.605,5.246-7.855,7.633-11.52,3.88
+		C53.328,80.42,54.469,73.764,59.105,72.072z"/>
+</g>
+</svg>
